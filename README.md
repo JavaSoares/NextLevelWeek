@@ -6,3 +6,4 @@
 <br>
 Ecoleta
 </h1>
+<img width="700" src="public/screenshots/index.png" alt="NLW">
