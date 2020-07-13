@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
 # Clonar o repositorio
-$ git clone https://wwww.github.com/JavaSoares/IT_CHALLENGE
+$ git clone https://wwww.github.com/JavaSoares/NextLevelWeek
 
 # Entrar no diretorio 
 $ cd IT_CHALLENGE
