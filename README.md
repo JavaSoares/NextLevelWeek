@@ -10,7 +10,10 @@
 ---
 
 <h1 align="center">
+<br>  
 ![Ecoleta - Google Chrome 2020-07-13 14-33-40](https://user-images.githubusercontent.com/64690628/87335328-7e787f80-c516-11ea-859e-860fe8a574f3.gif)
+<br>
+<br>
 </h1>
 
 ---
