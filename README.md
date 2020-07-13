@@ -47,7 +47,9 @@ $ cd NextLevelWeek
 $ yarn install
 
 # Iniciar o projeto
-$ yarn start
+$ yarn npm start
+
+No navegador: http://localhost:3000
 ```
 ---
 Desenvolvido 😎 por Jair de Oliveira Soares
