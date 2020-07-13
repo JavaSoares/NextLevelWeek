@@ -37,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 $ git clone https://wwww.github.com/JavaSoares/NextLevelWeek
 
 # Entrar no diretorio 
-$ cd IT_CHALLENGE
+$ cd NextLevelWeek
 
 # Instalar as dependências
 $ yarn install
