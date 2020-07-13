@@ -46,8 +46,8 @@ $ cd NextLevelWeek
 # Instalar as dependências
 $ yarn install
 
-# Iniciar o projeto
-$ yarn npm start
+# Iniciar o projeto / Servidor Bash
+$ npm start
 
 No navegador: http://localhost:3000
 ```
