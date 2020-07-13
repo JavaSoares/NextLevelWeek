@@ -16,7 +16,7 @@
 ---
 ## 📝 Sobre
 #### Ecoleta.
-Projeto que foi criado dentro do curso **Next Level Week** da empresa **Rocketseat**, no intuito que pessoas se concientizem da necessidade de cuidar do meio ambiente.
+Projeto que foi criado dentro do curso **Next Level Week** da empresa **Rocketseat**, no intuito que pessoas se concientizem da necessidade de reciclar e cuidar do meio ambiente.
 
 ---
 ## 🚀 Tecnologias utilizadas
